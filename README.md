@@ -76,6 +76,12 @@ Click any notebook in the `notebooks/` folder to open it directly in your browse
 
 ---
  
+## Future Work
+
+- Add cross-validation and hyperparameter tuning to improve model generalization.
+- Visualize feature importance and residuals for better model interpretation.
+- Build a simple web interface (e.g., with Streamlit or Flask) to make predictions interactively.
+- Experiment with neural network models or ensemble stacking for performance comparison.
 
 
 
