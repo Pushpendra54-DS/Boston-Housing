@@ -74,19 +74,25 @@ Examples:
 
 ## How to Run or View
 
-###  Option 1: View on GitHub
+### ​ Option 1: View on GitHub
 Click any notebook in the `notebooks/` folder to open it directly in your browser—no setup needed.
 
-###  Option 2: Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Pushpendra54-DS/Bonston-Housing.git
+###  Terminal Option 2: Run Locally
 
-- Navigate into it:cd Bonston-Housing
-- Install required packages:pip install -r requirements.txt
-- Launch Jupyter Notebook:jupyter notebook
-- Browse to the notebooks/ folder and click to run any notebook.
+```bash
+# 1. Clone the repository
+git clone https://github.com/Pushpendra54-DS/Bonston-Housing.git
 
+# 2. Navigate into the project folder
+cd Bonston-Housing
+
+# 3. Install the required packages
+pip install -r requirements.txt
+
+# 4. Launch Jupyter Notebook
+jupyter notebook
+
+```
 ---
  
 ## Future Work
