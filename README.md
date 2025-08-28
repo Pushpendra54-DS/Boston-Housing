@@ -4,6 +4,19 @@
 This project predicts Boston house prices using three machine learning models:  
 **Linear Regression, Random Forest, and XGBoost**.
 ---
+## Table of Contents
+
+- [Motivation](#motivation)
+- [Project Structure](#project-structure)
+- [Dataset Used](#dataset-used)
+- [Tech Stack](#tech-stack)
+- [Models and Metrics](#models-and-metrics)
+- [Visuals](#visuals)
+- [How to Run or View](#how-to-run-or-view)
+- [Future Work](#future-work)
+- [Notebooks](#notebooks)
+
+---
 
 ## Motivation
 
@@ -20,7 +33,7 @@ I wanted to compare how three different regression models—Linear Regression, R
 ├── .gitignore # Ignore unnecessary files
 └── README.md
 
-## Data Used
+## Dataset Used
 
 - Dataset: [Dataset: boston.csv](./boston.csv)
 
