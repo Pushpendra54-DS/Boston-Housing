@@ -59,8 +59,26 @@ Examples:
 
 ---
 
-## ▶️ How to Run
-1. Clone this repo  
-2. Install dependencies:  
+## How to Run or View
+
+###  Option 1: View on GitHub
+Click any notebook in the `notebooks/` folder to open it directly in your browser—no setup needed.
+
+###  Option 2: Run Locally
+1. Clone this repository:
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/Pushpendra54-DS/Bonston-Housing.git
+
+- Navigate into it:cd Bonston-Housing
+- Install required packages:pip install -r requirements.txt
+- Launch Jupyter Notebook:jupyter notebook
+- Browse to the notebooks/ folder and click to run any notebook.
+
+---
+ 
+
+
+
+
+
+
