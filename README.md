@@ -17,7 +17,8 @@ This project predicts Boston house prices using three machine learning models:
 
 ## Data Used
 
-- Dataset: [`boston_housing.csv`](data/boston_housing.csv)
+- Dataset: [Dataset: boston.csv](./boston.csv)
+
 
 ---
 
