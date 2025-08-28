@@ -3,6 +3,11 @@
 
 This project predicts Boston house prices using three machine learning models:  
 **Linear Regression, Random Forest, and XGBoost**.
+---
+
+## Motivation
+
+I wanted to compare how three different regression models—Linear Regression, Random Forest, and XGBoost—perform in predicting Boston housing prices, while also learning how to structure and document a data science project clearly.
 
 ---
 
