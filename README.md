@@ -83,6 +83,15 @@ Click any notebook in the `notebooks/` folder to open it directly in your browse
 - Build a simple web interface (e.g., with Streamlit or Flask) to make predictions interactively.
 - Experiment with neural network models or ensemble stacking for performance comparison.
 
+----
+
+## Notebooks
+
+Click to view each notebook:
+
+- [01 – Linear Regression](notebooks/01-linear_regression.ipynb)
+- [02 – Random Forest](notebooks/02-random_forest.ipynb)
+- [03 – XGBoost](notebooks/03-xgboost.ipynb)
 
 
 
