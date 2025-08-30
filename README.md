@@ -83,6 +83,13 @@ Examples:
 - Actual vs Predicted  
 - Feature Importance  
 
+Model performance and dataset insights:
+
+![Actual vs Predicted](results/plots/actual_vs_predicted.png)  
+![Feature vs Target Correlation](results/plots/feature_vs_target_corr.png)  
+![General Correlation Heatmap](results/plots/correlation_heatmap.png)  
+![Distribution of house prices](results/plots/house_price_distribution.png)
+
 ---
 
 ## How to Run or View
