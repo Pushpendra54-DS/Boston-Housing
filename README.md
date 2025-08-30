@@ -137,14 +137,14 @@ Once Jupyter opens, navigate to the notebooks/ folder and click a notebook to ru
 
 ----
 
-## Notebooks
+## Notebooks 
 
 Click to view each notebook:
 
 - [01 – Linear Regression](notebooks/01-linear_regression.ipynb)
 - [02 – Random Forest](notebooks/02-random_forest.ipynb)
 - [03 – XGBoost](notebooks/03-xgboost.ipynb)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Puhspendra54-DS/Boston-Housing/blob/main/notebooks/EDA_and_Modeling(1).ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Puhspendra54-DS/Boston-Housing/blob/main/notebooks/EDA_and_Modeling.ipynb)
 
 
 
