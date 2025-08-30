@@ -6,11 +6,10 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
  
-![GitHub last commit](https://img.shields.io/github/last-commit/Puhspendra54-DS/Boston-Housing)  
-![GitHub issues](https://img.shields.io/github/issues/Puhspendra54-DS/Boston-Housing)  
-![GitHub stars](https://img.shields.io/github/stars/Puhspendra54-DS/Boston-Housing)  
-![GitHub forks](https://img.shields.io/github/forks/Puhspendra54-DS/Boston-Housing)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![GitHub last commit](https://img.shields.io/github/last-commit/Pushpendra54-DS/Boston-Housing)  
+![GitHub issues](https://img.shields.io/github/issues/Pushpendra54-DS/Boston-Housing)  
+![GitHub stars](https://img.shields.io/github/stars/Pushpendra54-DS/Boston-Housing)  
+![GitHub forks](https://img.shields.io/github/forks/Pushpendra54-DS/Boston-Housing)  
 
 
 # Boston Housing — Regression Models (Linear, Random Forest, XGBoost)
