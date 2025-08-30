@@ -85,10 +85,17 @@ Examples:
 
 Model performance and dataset insights:
 
-![Actual vs Predicted](results/plots/actual_vs_predicted.png)  
-![Feature vs Target Correlation](results/plots/feature_vs_target_corr.png)  
-![General Correlation Heatmap](results/plots/correlation_heatmap.png)  
-![Distribution of house prices](results/plots/house_price_distribution.png)
+#### Actual vs Predicted
+![Actual vs Predicted](results/plots/Actual%20Vs%20Predicted.png)
+
+#### Distribution of House Price
+![Distribution of House Price](results/plots/Distribution%20of%20house%20price.png)
+
+#### Feature vs Target Correlation
+![Feature vs Target Correlation](results/plots/Feature%20vs%20Target%20Correlation.png)
+
+#### General Correlation Heatmap
+![General Correlation Heatmap](results/plots/General%20Correlation%20Heatmap.png)
 
 ---
 
