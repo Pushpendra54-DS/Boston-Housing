@@ -97,9 +97,9 @@ pip install -r requirements.txt
 
 # 4. Launch Jupyter Notebook
 jupyter notebook
-
-```
 Once Jupyter opens, navigate to the notebooks/ folder and click a notebook to run it.
+```
+
 ---
  
 ## Future Work
