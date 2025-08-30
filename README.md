@@ -1,9 +1,17 @@
 # Boston Housing — Regression Models
 # 🏠 Boston Housing Price Prediction
 
+## Badges
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+ 
+![GitHub last commit](https://img.shields.io/github/last-commit/Puhspendra54-DS/Boston-Housing)  
+![GitHub issues](https://img.shields.io/github/issues/Puhspendra54-DS/Boston-Housing)  
+![GitHub stars](https://img.shields.io/github/stars/Puhspendra54-DS/Boston-Housing)  
+![GitHub forks](https://img.shields.io/github/forks/Puhspendra54-DS/Boston-Housing)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+
 
 # Boston Housing — Regression Models (Linear, Random Forest, XGBoost)
 
