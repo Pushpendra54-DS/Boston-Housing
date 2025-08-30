@@ -1,0 +1,14 @@
+Model Evaluation Results
+-------------------------
+
+Linear Regression:
+ - R² Score: <0.666>
+ - RMSE: <4.950>
+
+Random Forest:
+ - R² Score: <0.886>
+ - RMSE: <2.891>
+
+XGBoost:
+ - R² Score: <0.928	>
+ - RMSE: <2.299>
