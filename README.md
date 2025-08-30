@@ -95,7 +95,7 @@ Model performance and dataset insights:
 ![Feature vs Target Correlation](results/plots/Feature%20vs%20Target%20Correlation.png)
 
 #### Actual vs Predicted
-![Actual vs Predicted](results/plots/Actual%20Vs%20Predicted.png)
+![Actual vs Predicted Plot](results/plots/Actual%20Vs%20Predicted%20Plot.png)
 
 ####Results
 
