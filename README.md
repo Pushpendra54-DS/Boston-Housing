@@ -66,11 +66,11 @@ I wanted to compare how three different regression models—Linear Regression, R
 ## 📊 Models and Metrics
 We trained and evaluated three models:
 
-| Model           | R² (test) | MAE  |  MSE |
-|-----------------|-----------|------|------|
-| Linear          | 0.67      | 3.20 | 24.49|
-| Random Forest   | 0.92      | 1.89 | 6.20 |
-| XGBoost         | 0.92      | 1.89 | 6.20 |
+| Model           | R² (test) | RMSE |
+|-----------------|-----------|------|
+| Linear          | 0.666     | 4.950|
+| Random Forest   | 0.886     | 2.891|
+| XGBoost         | 0.928     | 2.299|
 
 
 
@@ -97,7 +97,11 @@ Model performance and dataset insights:
 #### Actual vs Predicted
 ![Actual vs Predicted](results/plots/Actual%20Vs%20Predicted.png)
 
+####Results
 
+All model evaluation metrics and plots are saved in the `results/` folder.
+
+- 📄 [metrics.txt](results/metrics.txt) → model performance scores
 ---
 
 ## How to Run or View
