@@ -1,4 +1,10 @@
 # Boston Housing — Regression Models
+# 🏠 Boston Housing Price Prediction
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Boston Housing — Regression Models (Linear, Random Forest, XGBoost)
 
 This project predicts Boston house prices using three machine learning models:  
